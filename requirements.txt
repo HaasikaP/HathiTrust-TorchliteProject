@@ -1,6 +1,2 @@
 pandas
-htrc-feature-reader
-wordcloud
-matplotlib
-keybert
-gensim 
+gensim

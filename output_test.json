@@ -1,0 +1,1283 @@
+{
+    "Connecticut": [
+        {
+            "topic_id": 1,
+            "keywords": [
+                {
+                    "word": "Yale",
+                    "probability": 2.380700607318431e-05
+                },
+                {
+                    "word": "students",
+                    "probability": 2.3804981537978165e-05
+                },
+                {
+                    "word": "time",
+                    "probability": 2.380495425313711e-05
+                },
+                {
+                    "word": "man",
+                    "probability": 2.3804899683455005e-05
+                },
+                {
+                    "word": "people",
+                    "probability": 2.3804233933333308e-05
+                },
+                {
+                    "word": "American",
+                    "probability": 2.380305522819981e-05
+                },
+                {
+                    "word": "Haven",
+                    "probability": 2.380296245974023e-05
+                },
+                {
+                    "word": "young",
+                    "probability": 2.3802800569683313e-05
+                },
+                {
+                    "word": "good",
+                    "probability": 2.38025368162198e-05
+                },
+                {
+                    "word": "world",
+                    "probability": 2.380237310717348e-05
+                },
+                {
+                    "word": "war",
+                    "probability": 2.3802202122169547e-05
+                },
+                {
+                    "word": "life",
+                    "probability": 2.3802052965038456e-05
+                },
+                {
+                    "word": "history",
+                    "probability": 2.380179830652196e-05
+                },
+                {
+                    "word": "years",
+                    "probability": 2.3801765564712696e-05
+                },
+                {
+                    "word": "Vietnam",
+                    "probability": 2.3801714633009396e-05
+                },
+                {
+                    "word": "year",
+                    "probability": 2.3801627321518026e-05
+                },
+                {
+                    "word": "student",
+                    "probability": 2.380154182901606e-05
+                },
+                {
+                    "word": "tion",
+                    "probability": 2.3801314455340616e-05
+                },
+                {
+                    "word": "make",
+                    "probability": 2.380127989454195e-05
+                },
+                {
+                    "word": "Weaver",
+                    "probability": 2.380123441980686e-05
+                }
+            ]
+        },
+        {
+            "topic_id": 6,
+            "keywords": [
+                {
+                    "word": "Yale",
+                    "probability": 0.0072954436764121056
+                },
+                {
+                    "word": "people",
+                    "probability": 0.004999694414436817
+                },
+                {
+                    "word": "time",
+                    "probability": 0.0031483047641813755
+                },
+                {
+                    "word": "man",
+                    "probability": 0.0026937208604067564
+                },
+                {
+                    "word": "Haven",
+                    "probability": 0.0025686961598694324
+                },
+                {
+                    "word": "work",
+                    "probability": 0.002268324140459299
+                },
+                {
+                    "word": "years",
+                    "probability": 0.002084259409457445
+                },
+                {
+                    "word": "made",
+                    "probability": 0.002069206442683935
+                },
+                {
+                    "word": "student",
+                    "probability": 0.002051200484856963
+                },
+                {
+                    "word": "students",
+                    "probability": 0.002039156621322036
+                },
+                {
+                    "word": "play",
+                    "probability": 0.002019667997956276
+                },
+                {
+                    "word": "back",
+                    "probability": 0.0020056795328855515
+                },
+                {
+                    "word": "life",
+                    "probability": 0.001945418305695057
+                },
+                {
+                    "word": "American",
+                    "probability": 0.001943279872648418
+                },
+                {
+                    "word": "make",
+                    "probability": 0.0017976004164665937
+                },
+                {
+                    "word": "war",
+                    "probability": 0.0017004032852128148
+                },
+                {
+                    "word": "Warren",
+                    "probability": 0.0016083949012681842
+                },
+                {
+                    "word": "good",
+                    "probability": 0.0015674681635573506
+                },
+                {
+                    "word": "Brewster",
+                    "probability": 0.0015520903980359435
+                },
+                {
+                    "word": "sense",
+                    "probability": 0.0015517049469053745
+                }
+            ]
+        },
+        {
+            "topic_id": 12,
+            "keywords": [
+                {
+                    "word": "Yale",
+                    "probability": 0.011016354896128178
+                },
+                {
+                    "word": "Vassar",
+                    "probability": 0.0054715536534786224
+                },
+                {
+                    "word": "Haven",
+                    "probability": 0.004851310979574919
+                },
+                {
+                    "word": "people",
+                    "probability": 0.004703740123659372
+                },
+                {
+                    "word": "Panthers",
+                    "probability": 0.003565723542124033
+                },
+                {
+                    "word": "black",
+                    "probability": 0.003498284611850977
+                },
+                {
+                    "word": "time",
+                    "probability": 0.0029864259995520115
+                },
+                {
+                    "word": "community",
+                    "probability": 0.0028266608715057373
+                },
+                {
+                    "word": "white",
+                    "probability": 0.0025878162123262882
+                },
+                {
+                    "word": "faculty",
+                    "probability": 0.002554631792008877
+                },
+                {
+                    "word": "Panther",
+                    "probability": 0.002497857203707099
+                },
+                {
+                    "word": "man",
+                    "probability": 0.0023983551654964685
+                },
+                {
+                    "word": "Simpson",
+                    "probability": 0.002249158453196287
+                },
+                {
+                    "word": "students",
+                    "probability": 0.0021078174468129873
+                },
+                {
+                    "word": "made",
+                    "probability": 0.0020815075840801
+                },
+                {
+                    "word": "world",
+                    "probability": 0.0020747364033013582
+                },
+                {
+                    "word": "day",
+                    "probability": 0.0020019409712404013
+                },
+                {
+                    "word": "Brewster",
+                    "probability": 0.0019905786029994488
+                },
+                {
+                    "word": "society",
+                    "probability": 0.0019697658717632294
+                },
+                {
+                    "word": "year",
+                    "probability": 0.0019357871497049928
+                }
+            ]
+        },
+        {
+            "topic_id": 20,
+            "keywords": [
+                {
+                    "word": "Yale",
+                    "probability": 2.3816102839191444e-05
+                },
+                {
+                    "word": "Haven",
+                    "probability": 2.3812333893147297e-05
+                },
+                {
+                    "word": "students",
+                    "probability": 2.380748810537625e-05
+                },
+                {
+                    "word": "time",
+                    "probability": 2.380640944465995e-05
+                },
+                {
+                    "word": "Bernie",
+                    "probability": 2.3806160243111663e-05
+                },
+                {
+                    "word": "man",
+                    "probability": 2.3805416276445612e-05
+                },
+                {
+                    "word": "years",
+                    "probability": 2.3805136152077466e-05
+                },
+                {
+                    "word": "back",
+                    "probability": 2.380491241638083e-05
+                },
+                {
+                    "word": "good",
+                    "probability": 2.3804268494131975e-05
+                },
+                {
+                    "word": "people",
+                    "probability": 2.3804253942216747e-05
+                },
+                {
+                    "word": "year",
+                    "probability": 2.3804239390301518e-05
+                },
+                {
+                    "word": "Wilson",
+                    "probability": 2.3803961084922776e-05
+                },
+                {
+                    "word": "city",
+                    "probability": 2.380393743806053e-05
+                },
+                {
+                    "word": "life",
+                    "probability": 2.380384103162214e-05
+                },
+                {
+                    "word": "news",
+                    "probability": 2.380363548581954e-05
+                },
+                {
+                    "word": "Register",
+                    "probability": 2.380344449193217e-05
+                },
+                {
+                    "word": "young",
+                    "probability": 2.3803391741239466e-05
+                },
+                {
+                    "word": "school",
+                    "probability": 2.380321893724613e-05
+                },
+                {
+                    "word": "work",
+                    "probability": 2.380302976234816e-05
+                },
+                {
+                    "word": "morning",
+                    "probability": 2.380282967351377e-05
+                }
+            ]
+        },
+        {
+            "topic_id": 29,
+            "keywords": [
+                {
+                    "word": "Yale",
+                    "probability": 0.006140710785984993
+                },
+                {
+                    "word": "American",
+                    "probability": 0.004923382308334112
+                },
+                {
+                    "word": "Leonhard",
+                    "probability": 0.0044815922155976295
+                },
+                {
+                    "word": "people",
+                    "probability": 0.0035874389577656984
+                },
+                {
+                    "word": "students",
+                    "probability": 0.003389244433492422
+                },
+                {
+                    "word": "time",
+                    "probability": 0.0032644122838974
+                },
+                {
+                    "word": "Miller",
+                    "probability": 0.0029641548171639442
+                },
+                {
+                    "word": "years",
+                    "probability": 0.0027379165403544903
+                },
+                {
+                    "word": "school",
+                    "probability": 0.0026609550695866346
+                },
+                {
+                    "word": "government",
+                    "probability": 0.0022486287634819746
+                },
+                {
+                    "word": "man",
+                    "probability": 0.0020526971202343702
+                },
+                {
+                    "word": "system",
+                    "probability": 0.001985617447644472
+                },
+                {
+                    "word": "University",
+                    "probability": 0.0019737202674150467
+                },
+                {
+                    "word": "political",
+                    "probability": 0.0019676703959703445
+                },
+                {
+                    "word": "life",
+                    "probability": 0.001885608653537929
+                },
+                {
+                    "word": "case",
+                    "probability": 0.001816066331230104
+                },
+                {
+                    "word": "con",
+                    "probability": 0.0017871183808892965
+                },
+                {
+                    "word": "year",
+                    "probability": 0.0017788729164749384
+                },
+                {
+                    "word": "policy",
+                    "probability": 0.001731865108013153
+                },
+                {
+                    "word": "School",
+                    "probability": 0.001675792271271348
+                }
+            ]
+        }
+    ],
+    "District of Columbia": [
+        {
+            "topic_id": 0,
+            "keywords": [
+                {
+                    "word": "Marine",
+                    "probability": 1.7967618987313472e-05
+                },
+                {
+                    "word": "Corps",
+                    "probability": 1.7901824321597815e-05
+                },
+                {
+                    "word": "Reserve",
+                    "probability": 1.7892780306283385e-05
+                },
+                {
+                    "word": "USMCR",
+                    "probability": 1.7874963305075653e-05
+                },
+                {
+                    "word": "duty",
+                    "probability": 1.7872886019176804e-05
+                },
+                {
+                    "word": "General",
+                    "probability": 1.786977554729674e-05
+                },
+                {
+                    "word": "Jr.",
+                    "probability": 1.786829307093285e-05
+                },
+                {
+                    "word": "training",
+                    "probability": 1.7868038412416354e-05
+                },
+                {
+                    "word": "Colonel",
+                    "probability": 1.786681605153717e-05
+                },
+                {
+                    "word": "Battalion",
+                    "probability": 1.7866786947706714e-05
+                },
+                {
+                    "word": "Officer",
+                    "probability": 1.7865924746729434e-05
+                },
+                {
+                    "word": "Vietnam",
+                    "probability": 1.786567736417055e-05
+                },
+                {
+                    "word": "Marines",
+                    "probability": 1.7865188056020997e-05
+                },
+                {
+                    "word": "Air",
+                    "probability": 1.7864893379737623e-05
+                },
+                {
+                    "word": "Company",
+                    "probability": 1.7864780602394603e-05
+                },
+                {
+                    "word": "Major",
+                    "probability": 1.7864731489680707e-05
+                },
+                {
+                    "word": "WASHINGTON",
+                    "probability": 1.7863991160993464e-05
+                },
+                {
+                    "word": "Commanding",
+                    "probability": 1.786374195944518e-05
+                },
+                {
+                    "word": "Division",
+                    "probability": 1.7863083485281095e-05
+                },
+                {
+                    "word": "unit",
+                    "probability": 1.7861822925624438e-05
+                }
+            ]
+        },
+        {
+            "topic_id": 10,
+            "keywords": [
+                {
+                    "word": "Corps",
+                    "probability": 0.012866627424955368
+                },
+                {
+                    "word": "Job",
+                    "probability": 0.012665667571127415
+                },
+                {
+                    "word": "Corpsmen",
+                    "probability": 0.010677007958292961
+                },
+                {
+                    "word": "center",
+                    "probability": 0.007752254139631987
+                },
+                {
+                    "word": "work",
+                    "probability": 0.005542840342968702
+                },
+                {
+                    "word": "Corpsman",
+                    "probability": 0.005332586355507374
+                },
+                {
+                    "word": "training",
+                    "probability": 0.00508276978507638
+                },
+                {
+                    "word": "program",
+                    "probability": 0.004480390343815088
+                },
+                {
+                    "word": "Center",
+                    "probability": 0.004259440582245588
+                },
+                {
+                    "word": "Corpswomen",
+                    "probability": 0.003972859587520361
+                },
+                {
+                    "word": "job",
+                    "probability": 0.003943346440792084
+                },
+                {
+                    "word": "people",
+                    "probability": 0.003335753222927451
+                },
+                {
+                    "word": "time",
+                    "probability": 0.0031381286680698395
+                },
+                {
+                    "word": "good",
+                    "probability": 0.002814484992995858
+                },
+                {
+                    "word": "Washington",
+                    "probability": 0.002603312488645315
+                },
+                {
+                    "word": "school",
+                    "probability": 0.0025495889130979776
+                },
+                {
+                    "word": "men",
+                    "probability": 0.00247396994382143
+                },
+                {
+                    "word": "left",
+                    "probability": 0.0024525532498955727
+                },
+                {
+                    "word": "make",
+                    "probability": 0.002320706844329834
+                },
+                {
+                    "word": "young",
+                    "probability": 0.0022559796925634146
+                }
+            ]
+        },
+        {
+            "topic_id": 21,
+            "keywords": [
+                {
+                    "word": "Marine",
+                    "probability": 1.792679358914029e-05
+                },
+                {
+                    "word": "Corps",
+                    "probability": 1.7898850273923017e-05
+                },
+                {
+                    "word": "Reserve",
+                    "probability": 1.789276757335756e-05
+                },
+                {
+                    "word": "USMCR",
+                    "probability": 1.7881679013953544e-05
+                },
+                {
+                    "word": "Colonel",
+                    "probability": 1.7874581317300908e-05
+                },
+                {
+                    "word": "Marines",
+                    "probability": 1.7872051103040576e-05
+                },
+                {
+                    "word": "Jr.",
+                    "probability": 1.786881693988107e-05
+                },
+                {
+                    "word": "Battalion",
+                    "probability": 1.786850771168247e-05
+                },
+                {
+                    "word": "training",
+                    "probability": 1.786663597158622e-05
+                },
+                {
+                    "word": "General",
+                    "probability": 1.7866577763925306e-05
+                },
+                {
+                    "word": "duty",
+                    "probability": 1.7866463167592883e-05
+                },
+                {
+                    "word": "Officer",
+                    "probability": 1.7866232155938633e-05
+                },
+                {
+                    "word": "Vietnam",
+                    "probability": 1.7863832908915356e-05
+                },
+                {
+                    "word": "Company",
+                    "probability": 1.7863821994978935e-05
+                },
+                {
+                    "word": "officer",
+                    "probability": 1.7863550965557806e-05
+                },
+                {
+                    "word": "4th",
+                    "probability": 1.7862985259853303e-05
+                },
+                {
+                    "word": "Air",
+                    "probability": 1.7862550521385856e-05
+                },
+                {
+                    "word": "1969",
+                    "probability": 1.7862133972812444e-05
+                },
+                {
+                    "word": "unit",
+                    "probability": 1.7861104424810037e-05
+                },
+                {
+                    "word": "Lieutenant",
+                    "probability": 1.786077336873859e-05
+                }
+            ]
+        },
+        {
+            "topic_id": 22,
+            "keywords": [
+                {
+                    "word": "Job",
+                    "probability": 0.011715693399310112
+                },
+                {
+                    "word": "Corps",
+                    "probability": 0.011481214314699173
+                },
+                {
+                    "word": "Corpsmen",
+                    "probability": 0.008719149976968765
+                },
+                {
+                    "word": "center",
+                    "probability": 0.0075949314050376415
+                },
+                {
+                    "word": "Corpsman",
+                    "probability": 0.006384673062711954
+                },
+                {
+                    "word": "Center",
+                    "probability": 0.005782328080385923
+                },
+                {
+                    "word": "work",
+                    "probability": 0.004935753531754017
+                },
+                {
+                    "word": "Corpswomen",
+                    "probability": 0.004845596384257078
+                },
+                {
+                    "word": "program",
+                    "probability": 0.003848202293738723
+                },
+                {
+                    "word": "people",
+                    "probability": 0.0037955157458782196
+                },
+                {
+                    "word": "time",
+                    "probability": 0.0036648856475949287
+                },
+                {
+                    "word": "training",
+                    "probability": 0.0035953191109001637
+                },
+                {
+                    "word": "job",
+                    "probability": 0.0030105903279036283
+                },
+                {
+                    "word": "school",
+                    "probability": 0.0030007928144186735
+                },
+                {
+                    "word": "area",
+                    "probability": 0.002538040978834033
+                },
+                {
+                    "word": "staff",
+                    "probability": 0.0024674616288393736
+                },
+                {
+                    "word": "Washington",
+                    "probability": 0.0023948242887854576
+                },
+                {
+                    "word": "year",
+                    "probability": 0.0022986228577792645
+                },
+                {
+                    "word": "girls",
+                    "probability": 0.002233663108199835
+                },
+                {
+                    "word": "left",
+                    "probability": 0.002143186517059803
+                }
+            ]
+        },
+        {
+            "topic_id": 27,
+            "keywords": [
+                {
+                    "word": "Job",
+                    "probability": 0.01625233143568039
+                },
+                {
+                    "word": "Corps",
+                    "probability": 0.016011733561754227
+                },
+                {
+                    "word": "center",
+                    "probability": 0.007820412516593933
+                },
+                {
+                    "word": "Corpsmen",
+                    "probability": 0.007469338830560446
+                },
+                {
+                    "word": "Corpsman",
+                    "probability": 0.0066980160772800446
+                },
+                {
+                    "word": "Center",
+                    "probability": 0.00546348886564374
+                },
+                {
+                    "word": "training",
+                    "probability": 0.0045409006997942924
+                },
+                {
+                    "word": "work",
+                    "probability": 0.004345812369138002
+                },
+                {
+                    "word": "centers",
+                    "probability": 0.003840204095467925
+                },
+                {
+                    "word": "Corpswomen",
+                    "probability": 0.0034981181379407644
+                },
+                {
+                    "word": "CCC",
+                    "probability": 0.003421209752559662
+                },
+                {
+                    "word": "program",
+                    "probability": 0.0030303755775094032
+                },
+                {
+                    "word": "area",
+                    "probability": 0.002622133819386363
+                },
+                {
+                    "word": "men",
+                    "probability": 0.002584279514849186
+                },
+                {
+                    "word": "Washington",
+                    "probability": 0.002347785048186779
+                },
+                {
+                    "word": "year",
+                    "probability": 0.002322308486327529
+                },
+                {
+                    "word": "time",
+                    "probability": 0.002258805325254798
+                },
+                {
+                    "word": "staff",
+                    "probability": 0.0022373299580067396
+                },
+                {
+                    "word": "school",
+                    "probability": 0.0022370119113475084
+                },
+                {
+                    "word": "newspaper",
+                    "probability": 0.0022281415294855833
+                }
+            ]
+        }
+    ],
+    "New York (State)": [
+        {
+            "topic_id": 0,
+            "keywords": [
+                {
+                    "word": "Bible",
+                    "probability": 3.413732883927878e-06
+                },
+                {
+                    "word": "Rev.",
+                    "probability": 3.2164657568500843e-06
+                },
+                {
+                    "word": "Society",
+                    "probability": 3.2049995297711575e-06
+                },
+                {
+                    "word": "work",
+                    "probability": 3.1771876365382923e-06
+                },
+                {
+                    "word": "Pres.",
+                    "probability": 3.165042016917141e-06
+                },
+                {
+                    "word": "County",
+                    "probability": 3.1625163501303177e-06
+                },
+                {
+                    "word": "Co.",
+                    "probability": 3.1374659101857105e-06
+                },
+                {
+                    "word": "God",
+                    "probability": 3.1276379104383523e-06
+                },
+                {
+                    "word": "people",
+                    "probability": 3.125286639260594e-06
+                },
+                {
+                    "word": "year",
+                    "probability": 3.1126833164307754e-06
+                },
+                {
+                    "word": "Meth",
+                    "probability": 3.1077884159458335e-06
+                },
+                {
+                    "word": "books",
+                    "probability": 3.104463985437178e-06
+                },
+                {
+                    "word": "York",
+                    "probability": 3.1030349418870173e-06
+                },
+                {
+                    "word": "American",
+                    "probability": 3.102295522694476e-06
+                },
+                {
+                    "word": "great",
+                    "probability": 3.100204139627749e-06
+                },
+                {
+                    "word": "years",
+                    "probability": 3.0995872748462716e-06
+                },
+                {
+                    "word": "man",
+                    "probability": 3.0991341191111133e-06
+                },
+                {
+                    "word": "made",
+                    "probability": 3.098600927842199e-06
+                },
+                {
+                    "word": "Dr.",
+                    "probability": 3.0964845336711733e-06
+                },
+                {
+                    "word": "Church",
+                    "probability": 3.091285179834813e-06
+                }
+            ]
+        },
+        {
+            "topic_id": 9,
+            "keywords": [
+                {
+                    "word": "Bible",
+                    "probability": 0.018920397385954857
+                },
+                {
+                    "word": "County",
+                    "probability": 0.011813164688646793
+                },
+                {
+                    "word": "Society",
+                    "probability": 0.010082347318530083
+                },
+                {
+                    "word": "Co.",
+                    "probability": 0.009812652133405209
+                },
+                {
+                    "word": "Rev.",
+                    "probability": 0.007600716315209866
+                },
+                {
+                    "word": "work",
+                    "probability": 0.0069367303512990475
+                },
+                {
+                    "word": "books",
+                    "probability": 0.004815729800611734
+                },
+                {
+                    "word": "God",
+                    "probability": 0.004611971788108349
+                },
+                {
+                    "word": "Ohio",
+                    "probability": 0.003833385417237878
+                },
+                {
+                    "word": "year",
+                    "probability": 0.003648195881396532
+                },
+                {
+                    "word": "Scriptures",
+                    "probability": 0.003544797422364354
+                },
+                {
+                    "word": "American",
+                    "probability": 0.0035355829168111086
+                },
+                {
+                    "word": "read",
+                    "probability": 0.003310643369331956
+                },
+                {
+                    "word": "made",
+                    "probability": 0.003235761309042573
+                },
+                {
+                    "word": "people",
+                    "probability": 0.0030089523643255234
+                },
+                {
+                    "word": "society",
+                    "probability": 0.00283184926956892
+                },
+                {
+                    "word": "Church",
+                    "probability": 0.00281466543674469
+                },
+                {
+                    "word": "great",
+                    "probability": 0.0027298082131892443
+                },
+                {
+                    "word": "years",
+                    "probability": 0.0027220002375543118
+                },
+                {
+                    "word": "Bibles",
+                    "probability": 0.0026815987657755613
+                }
+            ]
+        },
+        {
+            "topic_id": 14,
+            "keywords": [
+                {
+                    "word": "Bible",
+                    "probability": 3.055364686588291e-06
+                },
+                {
+                    "word": "work",
+                    "probability": 3.0520920972776366e-06
+                },
+                {
+                    "word": "County",
+                    "probability": 3.0519611300405813e-06
+                },
+                {
+                    "word": "Co.",
+                    "probability": 3.0513447200064547e-06
+                },
+                {
+                    "word": "Society",
+                    "probability": 3.0513106139551383e-06
+                },
+                {
+                    "word": "Rev.",
+                    "probability": 3.050071200050297e-06
+                },
+                {
+                    "word": "Pres.",
+                    "probability": 3.0490791687043384e-06
+                },
+                {
+                    "word": "God",
+                    "probability": 3.0486698960885406e-06
+                },
+                {
+                    "word": "time",
+                    "probability": 3.0485534807667136e-06
+                },
+                {
+                    "word": "Meth",
+                    "probability": 3.048379312531324e-06
+                },
+                {
+                    "word": "York",
+                    "probability": 3.0479302495223237e-06
+                },
+                {
+                    "word": "year",
+                    "probability": 3.047908876396832e-06
+                },
+                {
+                    "word": "American",
+                    "probability": 3.047542577405693e-06
+                },
+                {
+                    "word": "Scriptures",
+                    "probability": 3.0474770937871654e-06
+                },
+                {
+                    "word": "people",
+                    "probability": 3.047429800062673e-06
+                },
+                {
+                    "word": "great",
+                    "probability": 3.0472899652522756e-06
+                },
+                {
+                    "word": "books",
+                    "probability": 3.0472499474853976e-06
+                },
+                {
+                    "word": "read",
+                    "probability": 3.0472217531496426e-06
+                },
+                {
+                    "word": "Church",
+                    "probability": 3.047138307010755e-06
+                },
+                {
+                    "word": "years",
+                    "probability": 3.047023938052007e-06
+                }
+            ]
+        },
+        {
+            "topic_id": 19,
+            "keywords": [
+                {
+                    "word": "Bible",
+                    "probability": 0.017393605783581734
+                },
+                {
+                    "word": "Co.",
+                    "probability": 0.013152647763490677
+                },
+                {
+                    "word": "whieh",
+                    "probability": 0.008841397240757942
+                },
+                {
+                    "word": "Soeiety",
+                    "probability": 0.0064750551246106625
+                },
+                {
+                    "word": "God",
+                    "probability": 0.0050251055508852005
+                },
+                {
+                    "word": "Rev.",
+                    "probability": 0.0048993369564414024
+                },
+                {
+                    "word": "Ohio",
+                    "probability": 0.004745461978018284
+                },
+                {
+                    "word": "work",
+                    "probability": 0.004482060670852661
+                },
+                {
+                    "word": "year",
+                    "probability": 0.0042601171880960464
+                },
+                {
+                    "word": "read",
+                    "probability": 0.004168514162302017
+                },
+                {
+                    "word": "books",
+                    "probability": 0.003468175185844302
+                },
+                {
+                    "word": "soeiety",
+                    "probability": 0.0032551928889006376
+                },
+                {
+                    "word": "good",
+                    "probability": 0.00316588394343853
+                },
+                {
+                    "word": "Seriptures",
+                    "probability": 0.003093531122431159
+                },
+                {
+                    "word": "Testament",
+                    "probability": 0.003020239993929863
+                },
+                {
+                    "word": "man",
+                    "probability": 0.0027711684815585613
+                },
+                {
+                    "word": "meeting",
+                    "probability": 0.0027152325492352247
+                },
+                {
+                    "word": "Word",
+                    "probability": 0.002673056675121188
+                },
+                {
+                    "word": "time",
+                    "probability": 0.0026581990532577038
+                },
+                {
+                    "word": "Testaments",
+                    "probability": 0.0026056135538965464
+                }
+            ]
+        },
+        {
+            "topic_id": 22,
+            "keywords": [
+                {
+                    "word": "Bible",
+                    "probability": 0.01729545183479786
+                },
+                {
+                    "word": "Pres.",
+                    "probability": 0.013422524556517601
+                },
+                {
+                    "word": "Society",
+                    "probability": 0.009336240589618683
+                },
+                {
+                    "word": "work",
+                    "probability": 0.006723805796355009
+                },
+                {
+                    "word": "Meth",
+                    "probability": 0.00574620021507144
+                },
+                {
+                    "word": "Rev.",
+                    "probability": 0.005236941855400801
+                },
+                {
+                    "word": "Co.",
+                    "probability": 0.00471888855099678
+                },
+                {
+                    "word": "York",
+                    "probability": 0.004155545495450497
+                },
+                {
+                    "word": "American",
+                    "probability": 0.004105767700821161
+                },
+                {
+                    "word": "people",
+                    "probability": 0.003604928031563759
+                },
+                {
+                    "word": "South",
+                    "probability": 0.003382544033229351
+                },
+                {
+                    "word": "God",
+                    "probability": 0.003266354091465473
+                },
+                {
+                    "word": "years",
+                    "probability": 0.0029982381965965033
+                },
+                {
+                    "word": "year",
+                    "probability": 0.0029836692847311497
+                },
+                {
+                    "word": "great",
+                    "probability": 0.00296430173330009
+                },
+                {
+                    "word": "Agency",
+                    "probability": 0.0029019275680184364
+                },
+                {
+                    "word": "Church",
+                    "probability": 0.00267967046238482
+                },
+                {
+                    "word": "Scriptures",
+                    "probability": 0.00265820836648345
+                },
+                {
+                    "word": "made",
+                    "probability": 0.002604532288387418
+                },
+                {
+                    "word": "read",
+                    "probability": 0.002522511640563607
+                }
+            ]
+        }
+    ]
+}

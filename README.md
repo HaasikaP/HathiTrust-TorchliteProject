@@ -1,12 +1,13 @@
 # HathiTrust-TorchliteProject
 
-## run 
-    'pip install --upgrade -r "requirements.txt"' before running
+## Set up
+1. run 
+	'pip install --upgrade -r "requirements.txt"' before running
 
-## change workset id (wsid) to your own public workset
+2. change workset id (wsid) to your own public workset
 
-## results are in second to last jupyter cell 
+## Results
+* results are in second to last jupyter cell 
 
-## write results to json file with last cell
+* write results to json file with last cell
     change file_name if needed
-    currently saves to output_test.json
